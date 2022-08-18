@@ -1,0 +1,15 @@
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.csproj.AssemblyReference.cache
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.AssemblyInfoInputs.cache
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.AssemblyInfo.cs
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.csproj.CoreCompileInputs.cache
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\bin\Debug\net6.0\Academia1.exe
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\bin\Debug\net6.0\Academia1.deps.json
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\bin\Debug\net6.0\Academia1.runtimeconfig.json
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\bin\Debug\net6.0\Academia1.dll
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\bin\Debug\net6.0\Academia1.pdb
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.dll
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\refint\Academia1.dll
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.pdb
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\Academia1.genruntimeconfig.cache
+C:\Users\danny\Documents\Visual Studio 2022\Academia1\Academia1\obj\Debug\net6.0\ref\Academia1.dll
